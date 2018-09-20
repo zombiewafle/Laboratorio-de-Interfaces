@@ -1,0 +1,4 @@
+package geometricalForm
+
+class Triangle {
+}
